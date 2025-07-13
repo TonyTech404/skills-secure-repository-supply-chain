@@ -2,7 +2,7 @@
 
 _Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them._
 
-## Welcome
+## Welcome  
 
 GitHub helps you secure your supply chain, from understanding the dependencies in your environment, to knowing about vulnerabilities in those dependencies and patching them.
 
